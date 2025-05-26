@@ -9,7 +9,6 @@ Original file is located at
 
 # Streamlit App - Análisis de Clientes
 import streamlit as st
-streamlit run streamlit_clientes.py
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
