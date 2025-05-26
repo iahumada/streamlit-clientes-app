@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1jm9TlCzkubEd6K-mTs9AMdjSzFu1y6Tj
 """
 
-# Install Dash and its dependencies
-!pip install streamlit
-
 # Streamlit App - Análisis de Clientes
 import streamlit as st
 streamlit run streamlit_clientes.py
